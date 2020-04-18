@@ -68,7 +68,7 @@ img{
     }
 }
 .btn:hover{
-    cursor:  ;
+    cursor:  pointer;
 }
 .btn-primario{
     background-color: #000000;
